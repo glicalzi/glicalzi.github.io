@@ -14,10 +14,10 @@ redirect_from:
 University of Zurich (advisors: Martin Meyer, Balthasar Bickel, Narly Golestani)
 
 **MSc in Cognitive Neuroscience** (2022&ndash;2024)<br>
-University of Trento &mdash; 110 cum laude
+University of Trento &ndash; 110 cum laude
 
 **BSc in Experimental Linguistics** (2019&ndash;2022)<br>
-University College London &mdash; 1st class honours with commendation (top 5%)
+University College London &ndash; 1st class honours with commendation (top 5%)
 
 ## Publications
 ---
@@ -39,7 +39,10 @@ Collegio Clesio (University of Trento)
 **Outstanding Undergraduate Dissertation in Linguistics Prize** (September 2022)<br>
 Linguistics Association of Great Britain
 
-**UCL Education Awards &mdash; shortlisted** (June 2022)<br>
+**Dean’s List of top performing students** (July 2022)<br>
+UCL Faculty of Brain Sciences
+
+**UCL Education Awards &ndash; shortlisted** (June 2022)<br>
 University College London
 
 **Academic Rep of the Year** (June 2021)<br>
