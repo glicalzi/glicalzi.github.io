@@ -28,10 +28,10 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 ## Past funding and awards
 ---
 **Howard Hughes Medical Institute Scholarship** (May 2026)<br>
-Cold Spring Harbor Laboratory (New York)
+Cold Spring Harbor Laboratory (Cold Spring Harbor, New York)
 
 **Merit-based stipend (awarded four times)** (May 2023 &ndash; May 2026)<br>
-Istituto Nazionale della Previdenza Sociale
+Istituto Nazionale della Previdenza Sociale (INPS)
 
 **MSc Scholarship and Erasmus+ Scholarship** (September 2022 &ndash; July 2024)<br>
 Collegio Clesio (University of Trento)
@@ -39,7 +39,7 @@ Collegio Clesio (University of Trento)
 **Outstanding Undergraduate Dissertation in Linguistics Prize** (September 2022)<br>
 Linguistics Association of Great Britain
 
-**UCL Education Awards for innovation and transformation with a focus on building learning communities &mdash; shortlisted** (June 2022)<br>
+**UCL Education Awards for Innovation and Transformation with a Focus on Building Learning Communities &mdash; shortlisted** (June 2022)<br>
 University College London
 
 **Academic Rep of the Year 2021 &mdash; Roll of Honour** (June 2021)<br>
@@ -52,7 +52,7 @@ University College London
 Laidlaw Foundation
 
 **ITACA Scholarship to spend a year abroad in Norway** (August 2017 &ndash; June 2018)<br>
-Istituto Nazionale della Previdenza Sociale
+Istituto Nazionale della Previdenza Sociale (INPS)
 
 ## Skills
 ---
