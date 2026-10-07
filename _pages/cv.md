@@ -39,7 +39,7 @@ Collegio Clesio (University of Trento)
 **Outstanding Undergraduate Dissertation in Linguistics Prize** (September 2022)<br>
 Linguistics Association of Great Britain
 
-**UCL Education Awards for Innovation and Transformation with a Focus on Building Learning Communities &mdash; shortlisted** (June 2022)<br>
+**UCL Education Awards &mdash; shortlisted** (June 2022)<br>
 University College London
 
 **Academic Rep of the Year 2021 &mdash; Roll of Honour** (June 2021)<br>
