@@ -10,14 +10,14 @@ redirect_from:
 
 ## Education 
 ---
-**PhD&mdash;Computational Neuroscience**  2024&ndash;present<br>
+**PhD in Computational Neuroscience**  2024&ndash;present<br>
 University of Zurich (advisors: Martin Meyer, Balthasar Bickel, Narly Golestani)
 
-**MSc&mdash;Cognitive Neuroscience**  2022&ndash;2024<br>
-University of Trento (advisors: Constantijn van der Burght, Antje Meyer, Roberto Zamparelli)
+**MSc in Cognitive Neuroscience**  2022&ndash;2024<br>
+University of Trento &mdash; 110 cum laude
 
-**BSc&mdash;Experimental Linguistics**  2019&ndash;2022<br>
-University College London (advisor: Courtenay Norbury)
+**BSc in Experimental Linguistics**  2019&ndash;2022<br>
+University College London &mdash; 1st class honours with commendation (top 5%)
 
 ## Publications
 ---
@@ -27,45 +27,23 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 
 ## Past funding and awards
 ---
-**NIH CRCNS R01-DC022534** (PI: Uri Hasson)  2024–2025<br>
-Building and testing computational models of the neural basis of natural communication
+**Howard Hughes Medical Institute Scholarship**  May 2026<br>
+Cold Spring Harbor Laboratory (New York)
 
-**Neurobiology of Language Workshop Travel Award**  2024<br>
-National Science Foundation, MIT Press
+**Merit-based stipend (awarded four times)**  May 2023 &ndash; May 2026<br>
+Istituto Nazionale della Previdenza Sociale
 
-**NIH DP1-HD091948** (PI: Uri Hasson)  2023–2024<br>
-Speaker-listener coupling: a novel neural approach for assessing communication
+**MSc Scholarship and Erasmus+ Scholarship**  September 2022 &ndash; July 2024<br>
+Collegio Clesio (University of Trento)
 
-**NIH R01-MH112566** (PI: Uri Hasson)  2019–2022<br>
-Brain-to-brain dynamical coupling: a new framework for the communication of social knowledge
+**Outstanding Undergraduate Dissertation in Linguistics Prize**. September 2022<br>
+Linguistics Association of Great Britain
 
-**ReproNim/INCF Fellow**  2019<br>
-ReproNim: A Center for Reproducible Neuroimaging Computation<br>
-International Neuroinformatics Coordinating Facility (INCF)
+**Laidlaw Research and Leadership Scholarship**. June 2020 &ndash; September 2021<br>
+Laidlaw Foundation
 
-**DARPA FA8750-18-C-0213** (PI: Mohamed Amer)  2018<br>
-Brain-to-brain coupling using temporal representation learning
-
-**OHBM Merit Abstract Award**  2015<br>
-Organization for Human Brain Mapping
-
-**Neukom Travel Grant**  2015<br>
-The William H. Neukom Institute for Computational Science
-
-**Marie A. Center 1982 Graduate Award for Excellence in Teaching**  2014<br>
-Department of Psychological & Brain Sciences, Dartmouth College
-
-**Student Council Conference Travel Grant**  2014<br>
-Graduate Student Council, Dartmouth College
-
-**Graduate Travel Award**  2014<br>
-Dartmouth Graduate Studies, Dartmouth College
-
-**OHBM Trainee Abstract Travel Award**  2014<br>
-Organization for Human Brain Mapping
-
-**Merit Award**  2012<br>
-Psychology & Cognitive Sciences Department, University of Trento
+**ITACA Scholarship** (year abroad in Norway)  August 2017 &ndash; June 2018<br>
+Istituto Nazionale della Previdenza Sociale
 
 ## Community
 ---
