@@ -67,7 +67,16 @@ Istituto Nazionale della Previdenza Sociale (INPS)
 ---
 **Peer review:** *NeuroImage*, *Cognition*
 
-**Representation, mentoring & outreach:** Lead Department Representative (UCL Linguistics), Linguistics Society Co-President (UCL LingSoc), PR and Communication Intern (UCL Connected Learning), Project Manager (UCL ChangeMakers), Student Quality Reviewer (UCL IQR, UCL PMAP, UCL Assessment Design), Recruitment Adviser (UCL Faculty of Brain Sciences), Senior Transition Mentor (UCL Linguistics), Teaching Assistant (UCL Horizons, UCL Explore, WeSpeak, UCL Scholars), Access & Widening Participation Ambassador (UCL Access & Widening Participation Office)
+**Representation, mentoring & outreach:**
+- Lead Department Representative (UCL Linguistics)
+- Linguistics Society Co-President (UCL LingSoc)
+- PR and Communication Intern (UCL Connected Learning)
+- Project Manager (UCL ChangeMakers)
+- Student Quality Reviewer (UCL IQR, UCL PMAP, UCL Assessment Design)
+- Recruitment Adviser (UCL Faculty of Brain Sciences)
+- Senior Transition Mentor (UCL Linguistics)
+- Teaching Assistant (UCL Horizons, UCL Explore, WeSpeak, UCL Scholars)
+- Access & Widening Participation Ambassador (UCL Access & Widening Participation Office)
 
 ## Media
 ---
@@ -81,5 +90,8 @@ Istituto Nazionale della Previdenza Sociale (INPS)
 
 ## Industry events
 ---
-Accenture @ UZH Long Night of Careers (November 2025), Bain Uncovered: Discover Consulting & Connect Over Dinner** (November 2025), EY Zurich Open House (April 2026), Deloitte Women in Tech & Advisory (April 2026), BCG AI Workshop at EC Colosseum (May 2026, invited)
-
+- Accenture @ UZH Long Night of Careers (November 2025)
+- Bain Uncovered: Discover Consulting &amp; Connect Over Dinner (November 2025)
+- EY Zurich Open House (April 2026)
+- Deloitte Women in Tech &amp; Advisory (April 2026)
+- BCG AI Workshop at EC Colosseum (May 2026, invited)
