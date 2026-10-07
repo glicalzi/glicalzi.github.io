@@ -15,5 +15,5 @@ My research combines naturalistic neuroimaging paradigms (fMRI, sEEG) and deep n
 **Check out my latest work here:**
 [Li Calzi, G., Meyer, A. S., & van der Burght, C. L. (2025). The time course of phonological encoding: Insights from time-resolved MVPA. *Journal of Neuroscience*, *45*(41), e0546252025.](https://doi.org/10.1523/JNEUROSCI.0546-25.2025)
 
-![CSHL2026](/images/1S2A6322.jpg)
+![Summer course in "Genetics and Neurobiology of Language" (Cold Spring Harbor Laboratory, August 2026)](/images/1S2A6322.jpg)
 *Summer course in "Genetics and Neurobiology of Language" (Cold Spring Harbor Laboratory, August 2026)*
