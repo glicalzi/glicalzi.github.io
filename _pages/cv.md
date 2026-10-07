@@ -10,13 +10,13 @@ redirect_from:
 
 ## Education 
 ---
-**PhD in Computational Neuroscience**  2024&ndash;present<br>
+**PhD in Computational Neuroscience** (2024&ndash;present)<br>
 University of Zurich (advisors: Martin Meyer, Balthasar Bickel, Narly Golestani)
 
-**MSc in Cognitive Neuroscience**  2022&ndash;2024<br>
+**MSc in Cognitive Neuroscience** (2022&ndash;2024)<br>
 University of Trento &mdash; 110 cum laude
 
-**BSc in Experimental Linguistics**  2019&ndash;2022<br>
+**BSc in Experimental Linguistics** (2019&ndash;2022)<br>
 University College London &mdash; 1st class honours with commendation (top 5%)
 
 ## Publications
@@ -27,29 +27,38 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 
 ## Past funding and awards
 ---
-**Howard Hughes Medical Institute Scholarship**  May 2026<br>
+**Howard Hughes Medical Institute Scholarship** (May 2026)<br>
 Cold Spring Harbor Laboratory (New York)
 
-**Merit-based stipend (awarded four times)**  May 2023 &ndash; May 2026<br>
+**Merit-based stipend (awarded four times)** (May 2023 &ndash; May 2026)<br>
 Istituto Nazionale della Previdenza Sociale
 
-**MSc Scholarship and Erasmus+ Scholarship**  September 2022 &ndash; July 2024<br>
+**MSc Scholarship and Erasmus+ Scholarship** (September 2022 &ndash; July 2024)<br>
 Collegio Clesio (University of Trento)
 
-**Outstanding Undergraduate Dissertation in Linguistics Prize**  September 2022<br>
+**Outstanding Undergraduate Dissertation in Linguistics Prize** (September 2022)<br>
 Linguistics Association of Great Britain
 
-**UCL Education Awards (Innovation and transformation with a focus on building learning communities, shortlisted)**  June 2022<br>
+**UCL Education Awards for innovation and transformation with a focus on building learning communities &mdash; shortlisted** (June 2022)<br>
 University College London
 
-**UCL Global Experience Bursary** <br>
+**Academic Rep of the Year 2021 &mdash; Roll of Honour** (June 2021)<br>
+Students' Union UCL
+
+**UCL Global Experience Bursary** (May 2021)<br>
 University College London
 
-**Laidlaw Research and Leadership Scholarship**  June 2020 &ndash; September 2021<br>
+**Laidlaw Research and Leadership Scholarship** (June 2020 &ndash; September 2021)<br>
 Laidlaw Foundation
 
-**ITACA Scholarship** (year abroad in Norway)  August 2017 &ndash; June 2018<br>
+**ITACA Scholarship to spend a year abroad in Norway** (August 2017 &ndash; June 2018)<br>
 Istituto Nazionale della Previdenza Sociale
+
+## Skills
+---
+**Languages:** Italian (native), English (C2), German (B2), Norwegian (B2)
+
+**Programming**: Linux, MATLAB, Python, R, LaTeX
 
 ## Community
 ---
