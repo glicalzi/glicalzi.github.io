@@ -36,10 +36,16 @@ Istituto Nazionale della Previdenza Sociale
 **MSc Scholarship and Erasmus+ Scholarship**  September 2022 &ndash; July 2024<br>
 Collegio Clesio (University of Trento)
 
-**Outstanding Undergraduate Dissertation in Linguistics Prize**. September 2022<br>
+**Outstanding Undergraduate Dissertation in Linguistics Prize**  September 2022<br>
 Linguistics Association of Great Britain
 
-**Laidlaw Research and Leadership Scholarship**. June 2020 &ndash; September 2021<br>
+**UCL Education Awards (Innovation and transformation with a focus on building learning communities, shortlisted)**  June 2022<br>
+University College London
+
+**UCL Global Experience Bursary** <br>
+University College London
+
+**Laidlaw Research and Leadership Scholarship**  June 2020 &ndash; September 2021<br>
 Laidlaw Foundation
 
 **ITACA Scholarship** (year abroad in Norway)  August 2017 &ndash; June 2018<br>
@@ -49,6 +55,8 @@ Istituto Nazionale della Previdenza Sociale
 ---
 **Peer review:** *NeuroImage*, *Cognition*
 
+**Representation, mentoring & outreach:** Lead Department Representative (UCL Linguistics), Linguistics Society Co-President (UCL LingSoc), PR and Communication Intern (UCL Connected Learning), Project Manager (UCL ChangeMakers), Student Quality Reviewer (UCL IQR, UCL PMAP, UCL Assessment Design), Recruitment Adviser (UCL Faculty of Brain Sciences), Senior Transition Mentor (UCL Linguistics), Teaching Assistant (UCL Horizons, UCL Explore, WeSpeak, UCL Scholars), Access & Widening Participation Ambassador (UCL Access & Widening Participation Office)
+
 ## Media
 ---
 [ORCID](https://orcid.org/0000-0002-0223-8560),
@@ -56,3 +64,5 @@ Istituto Nazionale della Previdenza Sociale
 [GitHub](https://github.com/glicalzi),
 [ResearchGate](https://www.researchgate.net/profile/Giulia-Li-Calzi),
 [Bluesky](https://bsky.app/profile/glicalzi.bsky.social)
+
+[Seven Questions with... Giulia Li Calzi](https://www.ucl.ac.uk/news/2021/oct/seven-questions-giulia-li-calzi)
