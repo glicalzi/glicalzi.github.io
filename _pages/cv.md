@@ -48,7 +48,7 @@ University College London
 **Academic Rep of the Year** (June 2021)<br>
 UCL Students' Union
 
-**UCL Global Experience Bursary** (May 2021)<br>
+**UCL Global Experience Bursary** (June &ndash; July 2021)<br>
 University College London
 
 **Laidlaw Research and Leadership Scholarship** (June 2020 &ndash; September 2021)<br>
@@ -79,11 +79,7 @@ Istituto Nazionale della Previdenza Sociale (INPS)
 
 [Seven Questions with... Giulia Li Calzi](https://www.ucl.ac.uk/news/2021/oct/seven-questions-giulia-li-calzi)
 
-## Consulting events
+## Industry events
 ---
-**Accenture @ UZH Long Night of Careers** (November 2025)<br>
-**Bain Uncovered: Discover Consulting & Connect Over Dinner** (November 2025)<br>
-**EY Zurich Open House** (April 2026)<br>
-**Deloitte Women in Tech & Advisory** (April 2026)<br>
-**BCG AI Workshop at EC Colosseum** (May 2026, invited)
+Accenture @ UZH Long Night of Careers (November 2025), Bain Uncovered: Discover Consulting & Connect Over Dinner** (November 2025), EY Zurich Open House (April 2026), Deloitte Women in Tech & Advisory (April 2026), BCG AI Workshop at EC Colosseum (May 2026, invited)
 
