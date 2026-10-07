@@ -36,7 +36,7 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 - Academic Rep of the Year (June 2021)
 - UCL Global Experience Bursary (June &ndash; July 2021)
 - Laidlaw Research and Leadership Scholarship (June 2020 &ndash; September 2021)
-- ITACA Scholarship to spend a year abroad in Norway (August 2017 &ndash; June 2018)
+- ITACA Scholarship (August 2017 &ndash; June 2018)
 
 ## Skills
 ---
