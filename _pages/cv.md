@@ -27,35 +27,16 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 
 ## Past funding and awards
 ---
-**Howard Hughes Medical Institute Scholarship** (May 2026)<br>
-Cold Spring Harbor Laboratory (Cold Spring Harbor, New York)
-
-**Merit-based stipend (awarded four times)** (May 2023 &ndash; May 2026)<br>
-Istituto Nazionale della Previdenza Sociale (INPS)
-
-**MSc Scholarship and Erasmus+ Scholarship** (September 2022 &ndash; July 2024)<br>
-Collegio Clesio (University of Trento)
-
-**Outstanding Undergraduate Dissertation in Linguistics Prize** (September 2022)<br>
-Linguistics Association of Great Britain
-
-**Dean’s List of top performing students** (July 2022)<br>
-UCL Faculty of Brain Sciences
-
-**UCL Education Awards &ndash; shortlisted** (June 2022)<br>
-University College London
-
-**Academic Rep of the Year** (June 2021)<br>
-UCL Students' Union
-
-**UCL Global Experience Bursary** (June &ndash; July 2021)<br>
-University College London
-
-**Laidlaw Research and Leadership Scholarship** (June 2020 &ndash; September 2021)<br>
-Laidlaw Foundation
-
-**ITACA Scholarship to spend a year abroad in Norway** (August 2017 &ndash; June 2018)<br>
-Istituto Nazionale della Previdenza Sociale (INPS)
+- Howard Hughes Medical Institute Scholarship (May 2026)
+- Merit-based stipend (May 2023 &ndash; May 2026)
+- MSc Scholarship and Erasmus+ Scholarship (September 2022 &ndash; July 2024)
+- Outstanding Undergraduate Dissertation in Linguistics Prize (September 2022)
+- Dean’s List of top performing students (July 2022)
+- UCL Education Awards &ndash; shortlisted (June 2022)
+- Academic Rep of the Year (June 2021)
+- UCL Global Experience Bursary (June &ndash; July 2021)
+- Laidlaw Research and Leadership Scholarship (June 2020 &ndash; September 2021)
+- ITACA Scholarship to spend a year abroad in Norway (August 2017 &ndash; June 2018)
 
 ## Skills
 ---
