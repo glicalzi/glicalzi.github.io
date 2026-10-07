@@ -8,8 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Education 
----
+## Education
 **PhD in Computational Neuroscience** (2024&ndash;present)<br>
 University of Zurich (advisors: Martin Meyer, Balthasar Bickel, Narly Golestani)
 
@@ -19,14 +18,20 @@ University of Trento &ndash; 110 cum laude
 **BSc in Experimental Linguistics** (2019&ndash;2022)<br>
 University College London &ndash; 1st class honours with commendation (top 5%)
 
+## Research experience
+- **Institute for the Interdisciplinary Study of Language Evolution** (September 2024 &ndash; present, PI: Martin Meyer)
+- **Max Planck Institute for Psycholinguistic** (October 2023 &ndash; Septemebr 2024, PI: Antje Meyer)
+- **UCL Literacy and Deafness Development Research** (May 2022 &ndash; July 2022, PI: Fiona Kyle)
+- **UCL Literacy, Language and Communication** (September 2021 &ndash; September 2022, PI: Courtenay Norbury)
+- **MIT Language Acquistion Lab** (September 2021 &ndash; December 2021, PI: Martin Hackl)
+- **UCL Language and Cogntion** (July 2021 &ndash; August 2021, PI: Gabriella Vigliocco)
+
 ## Publications
----
 **Li Calzi, G.**, Meyer, A. S., & van der Burght, C. L. (2025). The time course of phonological encoding: Insights from time-resolved MVPA. *Journal of Neuroscience*, *45*(41), e0546252025. [`DOI`](https://doi.org/10.1523/JNEUROSCI.0546-25.2025) [`PDF`](https://glicalzi.github.io/files/LiCalzi_JNeurosci_2025.pdf) [`code`](https://osf.io/nvgwx/)
 
 Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern England: A new survey of manuscript evidence. *Journal of Latin Cosmopolitanism and European Literatures*. [`DOI`](https://doi.org/10.21825/jolcel.81971) [`PDF`](https://glicalzi.github.io/files/jolcel-81971-LiCalzi.pdf)
 
 ## Past funding and awards
----
 - Scholarship to attend "Genetics and Neurobiology of Language" at Cold Spring Harbor Laboratory awarded by the Howard Hughes Medical Institute (May 2026)
 - Merit-based stipend awarded by the Italian National Institute for Social Security (May 2023 &ndash; May 2026)
 - Erasmus+ Scholarship awarded by the University of Trento (October 2023 &ndash; May 2024)
@@ -39,13 +44,10 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 - "ITACA Scholarship" awarded by the Italian National Institute for Social Security (August 2017 &ndash; June 2018)
 
 ## Skills
----
-**Languages:** Italian (native), English (C2), German (B2), Norwegian (B2)
-
+**Languages:** Italian (native), English (C2), German (B2), Norwegian (B2)<br>
 **Programming**: Linux, MATLAB, Python, R, LaTeX
 
 ## Community
----
 **Peer review:** *NeuroImage*, *Cognition*
 
 **Representation, mentoring & outreach:**
@@ -60,7 +62,6 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 - Access & Widening Participation Ambassador (UCL Access & Widening Participation Office)
 
 ## Media
----
 [ORCID](https://orcid.org/0000-0002-0223-8560),
 [Google Scholar](https://scholar.google.com/citations?user=o-Ji7N0AAAAJ&hl=en),
 [GitHub](https://github.com/glicalzi),
@@ -70,7 +71,6 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 [Seven Questions with... Giulia Li Calzi](https://www.ucl.ac.uk/news/2021/oct/seven-questions-giulia-li-calzi)
 
 ## Industry events
----
 - Accenture @ UZH Long Night of Careers (November 2025)
 - Bain Uncovered: Discover Consulting &amp; Connect Over Dinner (November 2025)
 - EY Zurich Open House (April 2026)
