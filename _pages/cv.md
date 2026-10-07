@@ -31,7 +31,7 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 - Merit-based stipend awarded by the Italian National Institute for Social Security (May 2023 &ndash; May 2026)
 - Erasmus+ Scholarship awarded by the University of Trento (October 2023 &ndash; May 2024)
 - MSc Scholarship awarded by the Honours College "Bernardo Clesio" (September 2022 &ndash; July 2024)
-- Recepient of the "Outstanding Undergraduate Dissertation in Linguistics" award presented by the Linguistics Association of Great Britain and Northern Ireland (September 2022)
+- Recipient of the "Outstanding Undergraduate Dissertation in Linguistics" award presented by the Linguistics Association of Great Britain and Northern Ireland (September 2022)
 - UCL Faculty of Brain Sciences Dean's List of top-performing graduates (July 2022)
 - Shortlisted for the UCL Education Award in "Innovation and Transformation with a Focus on Building Learning Communities" (June 2022)
 - "UCL Global Experience Bursary" awarded by UCL Study Abroad (June &ndash; July 2021)
