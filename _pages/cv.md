@@ -78,3 +78,12 @@ Istituto Nazionale della Previdenza Sociale (INPS)
 [Bluesky](https://bsky.app/profile/glicalzi.bsky.social)
 
 [Seven Questions with... Giulia Li Calzi](https://www.ucl.ac.uk/news/2021/oct/seven-questions-giulia-li-calzi)
+
+## Consulting events
+---
+**Accenture @ UZH Long Night of Careers** (November 2025)<br>
+**Bain Uncovered: Discover Consulting & Connect Over Dinner** (November 2025)<br>
+**EY Zurich Open House** (April 2026)<br>
+**Deloitte Women in Tech & Advisory** (April 2026)<br>
+**BCG AI Workshop at EC Colosseum** (May 2026, invited)
+
