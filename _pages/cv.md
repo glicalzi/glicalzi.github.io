@@ -29,7 +29,7 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 ---
 - Scholarship to attend "Genetics and Neurobiology of Language" at Cold Spring Harbor Laboratory awarded by the Howard Hughes Medical Institute (May 2026)
 - Merit-based stipend awarded by the Italian National Institute for Social Security (May 2023 &ndash; May 2026)
-- Erasmus+ Scholarship awarded by University of Trento (October 2023 &ndash; May 2024)
+- Erasmus+ Scholarship awarded by the University of Trento (October 2023 &ndash; May 2024)
 - MSc Scholarship awarded by the Honours College "Bernardo Clesio" (September 2022 &ndash; July 2024)
 - Prize for the 2022 "Outstanding Undergraduate Dissertation in Linguistics" awarded by the Linguistics Association of Great Britain and Northern Ireland (September 2022)
 - UCL Faculty of Brain Sciences Dean's List of top-performing graduates (July 2022)
