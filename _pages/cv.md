@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Samuel A. Nastase &mdash; CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,21 +10,20 @@ redirect_from:
 
 ## Education 
 ---
-**PhD&mdash;Cognitive Neuroscience**  2012&ndash;2017<br>
-Dartmouth College (advisor: James V. Haxby)
+**PhD&mdash;Computational Neuroscience**  2024&ndash;present<br>
+University of Zurich (advisors: Martin Meyer, Balthasar Bickel, Narly Golestani)
 
-**MSc&mdash;Cognitive Neuroscience**  2010&ndash;2012<br>
-University of Trento (advisor: Uri Hasson)
+**MSc&mdash;Cognitive Neuroscience**  2022&ndash;2024<br>
+University of Trento (advisors: Constantijn van der Burght, Antje Meyer, Roberto Zamparelli)
 
-**BA&mdash;Cognitive Science, Philosophy**  2006&ndash;2010<br>
-Johns Hopkins University (advisor: Michael McCloskey)
+**BSc&mdash;Experimental Linguistics**  2019&ndash;2022<br>
+University College London (advisor: Courtenay Norbury)
 
 ## Publications
 ---
+**Li Calzi, G.**, Meyer, A. S., & van der Burght, C. L. (2025). The time course of phonological encoding: Insights from time-resolved MVPA. *Journal of Neuroscience*, *45*(41). [`DOI`](https://doi.org/10.1523/JNEUROSCI.0546-25.2025) [`PDF`](https://glicalzi.github.io/files/LiCalzi_JNeurosci_2025.pdf) [`code`](https://osf.io/nvgwx/)
 
-**Nastase, S. A.**, Zada, Z., Goldberg, A., & Hasson, U. (2026). Unifying the structures of language in a neural population code. *Neuron*. [`DOI`](https://doi.org/10.1016/j.neuron.2026.07.024) [`PDF`](https://snastase.github.io/files/Nastase_Neuron_2026.pdf)
-
-Bhattacharjee, A., Zada, Z., Wang, H., Aubrey, B., Doyle, W., Dugan, P., Friedman, D., Devinsky, O., Flinker, A., Ramadge, P. J., Hasson, U., Goldstein, A.\*, & **Nastase, S. A.**\* (2026). Aligning brains into a shared space improves their alignment to large language models. *Nature Computational Science*, *6*, 169–178. [`DOI`](https://doi.org/10.1038/s43588-025-00900-y) [`PDF`](https://snastase.github.io/files/Bhattacharjee_NCS_2026.pdf)
+Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern England: A new survey of manuscript evidence. *Journal of Latin Cosmopolitanism and European Literatures*. [`DOI`](https://doi.org/10.21825/jolcel.81971) [`PDF`](https://glicalzi.github.io/files/jolcel-81971-LiCalzi.pdf)
 
 ## Past funding and awards
 ---
