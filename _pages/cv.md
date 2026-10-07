@@ -42,8 +42,8 @@ Linguistics Association of Great Britain
 **UCL Education Awards &mdash; shortlisted** (June 2022)<br>
 University College London
 
-**Academic Rep of the Year 2021 &mdash; Roll of Honour** (June 2021)<br>
-Students' Union UCL
+**Academic Rep of the Year** (June 2021)<br>
+UCL Students' Union
 
 **UCL Global Experience Bursary** (May 2021)<br>
 University College London
