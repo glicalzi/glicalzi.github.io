@@ -34,7 +34,7 @@ Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern
 - Linguistics Association of Great Britain and Northern Ireland "Outstanding Undergraduate Dissertation in Linguistics" Award (September 2022)
 - UCL Faculty of Brain Sciences Dean's List of top-performing students (July 2022)
 - UCL Education Awards &ndash; shortlisted (June 2022)
-- Academic Representative of the Year (June 2021)
+- Academic Representative of the Year &ndash; roll of honour (June 2021)
 - UCL Global Experience Bursary (June &ndash; July 2021)
 - Laidlaw Research and Leadership Scholarship (June 2020 &ndash; September 2021)
 - ITACA Scholarship (August 2017 &ndash; June 2018)
