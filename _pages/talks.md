@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Posters
-
 **Li Calzi, G.**, Golestani, N., Nitschke, R., Marcante, A., Bickel, B., Meyer, M., & Giglio, L. (2026, October). *Neural correlates of spontaneous speech production: insights from whole-brain fMRI*. Poster presented at the 18th Annual Meeting of the Society for the Neurobiology of Language, Geneva, Switzerland.
 
 **Li Calzi, G.**, Golestani, N., Nitschke, R., Marcante, A., Meyer, M., Bickel, B., & Giglio, L. (2026, July). *Neural correlates of spontaneous speech production: insights from whole-brain fMRI*. Poster presented at the 2026 Salzburg Mind-Brain Annual Meeting, Salzburg, Austria.
