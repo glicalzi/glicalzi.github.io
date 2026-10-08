@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD student at the University of Zurich"
   location         : "Zurich, Switzerland"
-  employer         : "https://www.isle.uzh.ch/en/staff/li-calzi.html"
+  employer         : # "https://www.isle.uzh.ch/en/staff/li-calzi.html"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=o-Ji7N0AAAAJ&hl=en"
   email            : "giulia.licalzi@uzh.ch"
