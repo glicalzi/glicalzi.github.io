@@ -20,28 +20,30 @@ University College London &ndash; 1st class honours with commendation (top 5%)
 
 ## Research experience
 - **Institute for the Interdisciplinary Study of Language Evolution** (September 2024 &ndash; present, PI: Martin Meyer)
-- **Max Planck Institute for Psycholinguistic** (October 2023 &ndash; Septemebr 2024, PI: Antje Meyer)
+- **Max Planck Institute for Psycholinguistics** (October 2023 &ndash; September 2024, PI: Antje Meyer)
 - **UCL Literacy and Deafness Development Research** (May 2022 &ndash; July 2022, PI: Fiona Kyle)
 - **UCL Literacy, Language and Communication** (September 2021 &ndash; September 2022, PI: Courtenay Norbury)
-- **MIT Language Acquistion Lab** (September 2021 &ndash; December 2021, PI: Martin Hackl)
-- **UCL Language and Cogntion** (July 2021 &ndash; August 2021, PI: Gabriella Vigliocco)
+- **MIT Language Acquisition Lab** (September 2021 &ndash; December 2021, PI: Martin Hackl)
+- **UCL Language and Cognition** (July 2021 &ndash; August 2021, PI: Gabriella Vigliocco)
 
 ## Publications
 **Li Calzi, G.**, Meyer, A. S., & van der Burght, C. L. (2025). The time course of phonological encoding: Insights from time-resolved MVPA. *Journal of Neuroscience*, *45*(41), e0546252025. [`DOI`](https://doi.org/10.1523/JNEUROSCI.0546-25.2025) [`PDF`](https://glicalzi.github.io/files/LiCalzi_JNeurosci_2025.pdf) [`code`](https://osf.io/nvgwx/)
 
-Moul, V., & **Li Calzi, G.** (2023). Anglo-Latin macaronic verse in early modern England: A new survey of manuscript evidence. *Journal of Latin Cosmopolitanism and European Literatures*. [`DOI`](https://doi.org/10.21825/jolcel.81971) [`PDF`](https://glicalzi.github.io/files/jolcel-81971-LiCalzi.pdf)
+Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern England: A new survey of manuscript evidence. *Journal of Latin Cosmopolitanism and European Literatures*. [`DOI`](https://doi.org/10.21825/jolcel.81971) [`PDF`](https://glicalzi.github.io/files/jolcel-81971-LiCalzi.pdf)
 
 ## Past funding and awards
-- Scholarship to attend "Genetics and Neurobiology of Language" at Cold Spring Harbor Laboratory awarded by the Howard Hughes Medical Institute (May 2026)
-- Merit-based stipend awarded by the Italian National Institute for Social Security (May 2023 &ndash; May 2026)
-- Erasmus+ Scholarship awarded by the University of Trento (October 2023 &ndash; May 2024)
-- MSc Scholarship awarded by the Honours College "Bernardo Clesio" (September 2022 &ndash; July 2024)
+- Recipient of the Howard Hughes Medical Institute Scholarship to attend "Genetics and Neurobiology of Language" at Cold Spring Harbor Laboratory (May 2026)
+- Recipient of the merit-based stipend awarded by the Italian National Institute for Social Security (May 2023 &ndash; May 2026)
+- Recipient of the Erasmus+ Scholarship awarded by the University of Trento (October 2023 &ndash; May 2024)
+- Recipient of the MSc Scholarship awarded by the Honours College "Bernardo Clesio" (September 2022 &ndash; July 2024)
 - Recipient of the "Outstanding Undergraduate Dissertation in Linguistics" award presented by the Linguistics Association of Great Britain and Northern Ireland (September 2022)
-- UCL Faculty of Brain Sciences Dean's List of top-performing graduates (July 2022)
+- Member of the UCL Faculty of Brain Sciences Dean's List of top-performing graduates (July 2022)
+- Shortlisted for the UCL Student Choice Awards in "Active Student Partnership" (June 2022)
 - Shortlisted for the UCL Education Award in "Innovation and Transformation with a Focus on Building Learning Communities" (June 2022)
-- "UCL Global Experience Bursary" awarded by UCL Study Abroad (June &ndash; July 2021)
-- "Laidlaw Research and Leadership Scholarship" awarded by the Laidlaw Foundation (June 2020 &ndash; September 2021)
-- "ITACA Scholarship" awarded by the Italian National Institute for Social Security (August 2017 &ndash; June 2018)
+- Recipient of the "UCL Global Experience Bursary" awarded by UCL Study Abroad (June &ndash; July 2021)
+- Shortlisted for "UCL Academic Rep of the Year" (June 2021)
+- Recipient of the "Laidlaw Research and Leadership Scholarship" awarded by the Laidlaw Foundation (June 2020 &ndash; September 2021)
+- Recipient of the "ITACA Scholarship" awarded by the Italian National Institute for Social Security (August 2017 &ndash; June 2018)
 
 ## Skills
 **Languages:** Italian (native), English (C2), German (B2), Norwegian (B2)<br>
