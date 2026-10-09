@@ -13,14 +13,14 @@ redirect_from:
 University of Zurich (advisors: Martin Meyer, Balthasar Bickel, Narly Golestani)
 
 **MSc in Cognitive Neuroscience** (2022&ndash;2024)<br>
-University of Trento &ndash; 110 cum laude
+University of Trento &ndash; 110/110 cum laude
 
 **BSc in Experimental Linguistics** (2019&ndash;2022)<br>
 University College London &ndash; 1st class honours with commendation (top 5%)
 
 ## Research experience
 - **Institute for the Interdisciplinary Study of Language Evolution** (September 2024 &ndash; present, PI: Martin Meyer)
-- **Max Planck Institute for Psycholinguistics** (October 2023 &ndash; September 2024, PI: Antje Meyer)
+- **Max Planck Institute for Psycholinguistics** (October 2023 &ndash; August 2024, PI: Antje Meyer)
 - **UCL Literacy and Deafness Development Research** (May 2022 &ndash; July 2022, PI: Fiona Kyle)
 - **UCL Literacy, Language and Communication** (September 2021 &ndash; September 2022, PI: Courtenay Norbury)
 - **MIT Language Acquisition Lab** (September 2021 &ndash; December 2021, PI: Martin Hackl)
@@ -47,7 +47,7 @@ Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern
 
 ## Skills
 **Languages:** Italian (native), English (C2), German (B2), Norwegian (B2)<br>
-**Programming**: Linux, MATLAB, Python, R, LaTeX
+**Programming:** Linux, MATLAB, Python, R, LaTeX
 
 ## Community
 **Peer review:** *NeuroImage*, *Cognition*
