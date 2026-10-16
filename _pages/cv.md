@@ -78,3 +78,5 @@ Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern
 - EY Zurich Open House (April 2026)
 - Deloitte Women in Tech &amp; Advisory (April 2026)
 - BCG AI Workshop at EC Colosseum (May 2026, invited)
+- BCG Pulse (October 2026)
+- Become a Reinventor with Accenture: AI, Impact, and Opportunity (November 2026)
