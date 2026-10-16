@@ -73,7 +73,7 @@ Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern
 [Seven Questions with... Giulia Li Calzi](https://www.ucl.ac.uk/news/2021/oct/seven-questions-giulia-li-calzi)
 
 ## Industry events
-- Accenture @ UZH Long Night of Careers (November 2025)
+- Unlock Your Future with Accenture: Innovation, Impact, and Opportunity (November 2025)
 - Bain Uncovered: Discover Consulting &amp; Connect Over Dinner (November 2025)
 - EY Zurich Open House (April 2026)
 - Deloitte Women in Tech &amp; Advisory (April 2026)
