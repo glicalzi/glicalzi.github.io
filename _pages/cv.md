@@ -47,7 +47,7 @@ Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern
 
 ## Skills
 **Languages:** Italian (native), English (C2), German (B2), Norwegian (B2)<br>
-**Programming:** Linux, MATLAB, Python, R, LaTeX
+**Programming:** bash, MATLAB, Python, R, LaTeX
 
 ## Community
 **Peer review:** *NeuroImage*, *Cognition*
