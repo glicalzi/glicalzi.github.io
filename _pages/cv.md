@@ -80,3 +80,4 @@ Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern
 - BCG Pulse (October 2026)
 - Bain & Company: Carve & Connect – Discover Consulting at Bain: Halloween Edition (October 2026)
 - Become a Reinventor with Accenture: AI, Impact, and Opportunity (November 2026)
+- PwC's Women Tech Breakfast (November 2026)
