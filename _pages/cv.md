@@ -1,4 +1,5 @@
 ---
+
 layout: archive
 title: "Giulia Li Calzi &ndash; CV"
 permalink: /cv/
@@ -82,3 +83,4 @@ Moul, V., & **Li Calzi, G.** (2022). Anglo-Latin macaronic verse in early modern
 - Become a Reinventor with Accenture: AI, Impact, and Opportunity (November 2026)
 - Keystone: Navigating Transformative Technologies, Innovations, & Ecosystem Competition (November 2026)
 - PwC's Women Tech Breakfast (November 2026)
+- Brown Bag Lunch: Finance Club meets Roland Berger (November 2026)
